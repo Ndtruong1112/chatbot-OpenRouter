@@ -4,7 +4,7 @@ import requests
 from typing import List, Tuple
 import openai #là 1 thư viện cần thiết để tương tác với OpenRouter
 # Cấu hình
-API_KEY = "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"
+API_KEY = "sk-..."  # ← Thay bằng key của bạn
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 # Models ưu tiên theo độ ổn định (từ các model có sẵn trong log)
@@ -240,4 +240,5 @@ if __name__ == "__main__":
         )
     except Exception as e:
         print(f"❌ Launch error: {e}")
+
         demo.launch(inbrowser=True, server_port=0)
