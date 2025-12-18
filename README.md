@@ -1,4 +1,4 @@
-<img width="1287" height="365" alt="image" src="https://github.com/user-attachments/assets/a183279b-b8a0-4fb3-9555-15f77ba47b58" /># chatbot-OpenRouter
+# chatbot - OpenRouter
 # hướng dẫn đăng ký, lấy key OpenRouter
 **1. Đăng ký tài khoản OpenRouter**
 
