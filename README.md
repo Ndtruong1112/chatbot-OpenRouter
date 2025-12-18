@@ -7,4 +7,5 @@
 
 **2. Tạo key OpenRouter**
 <img width="1287" height="365" alt="image" src="https://github.com/user-attachments/assets/0fe28908-bd70-409e-9ca8-3539064a03e4" /> (chỉ cần thêm tên là tạo được)
+
 **3. Gán key vào code và chạy**
