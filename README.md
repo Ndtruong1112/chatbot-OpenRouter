@@ -37,4 +37,4 @@ Giao diện được xây dựng bằng **Gradio**.
 2. Cài thư viện: 
 - pip install -r requirements_v1.txt
 3. chạy chatbot:
-- python code/chatbot_v1.py
+- python code/test3.py
