@@ -38,3 +38,30 @@ Giao diện được xây dựng bằng **Gradio**.
 - pip install -r requirements_v1.txt
 3. chạy chatbot:
 - python code/test3.py
+## 📄 Phiên bản test2.py
+### 🔍 Đặc điểm
+- File test2.py của bạn là bản thứ 2 của chatbot.
+- Khác với test3.py (bản 1 dùng thư viện openai), bản này không import openai mà gọi API trực tiếp bằng requests.post.
+- Giao diện vẫn dùng Gradio (gr.ChatInterface).
+### 📦 Thư viện cần thiết
+- `gradio` → cần cài.
+- `requests` → cần cài.
+- `time`, `typing` → thư viện chuẩn của Python, không cần cài thêm.
+
+### ▶️ Cách chạy test2.py
+1. Tạo và kích hoạt môi trường ảo:
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate   # Windows
+   source .venv/bin/activate # macOS/Linux
+   ```
+2. Cài thư viện:
+   ```bash
+   pip install -r requirements_v2.txt
+   ```
+3. Chạy chatbot:
+   ```bash
+   python code/test2.py
+   ```
+### 📊 So sánh nhanh với test3.py
+![alt text](image.png)

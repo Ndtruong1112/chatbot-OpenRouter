@@ -1,0 +1,3 @@
+# dùng cho test2.py
+gradio
+requests

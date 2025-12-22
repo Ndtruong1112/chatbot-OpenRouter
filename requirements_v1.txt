@@ -1,3 +1,4 @@
+# dùng cho test3.py
 gradio
 requests
 openai
